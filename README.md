@@ -8,14 +8,14 @@
 ---
 
 ## Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heimin22&bg_color=111827&color=f5f5f5&line=fdd835&point=3949ab&area=true&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ultraelectronica&bg_color=111827&color=f5f5f5&line=fdd835&point=3949ab&area=true&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## Trophies
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=heimin22&no-frame=true&column=7&margin-w=15&margin-h=15&theme=onedark" 
+    src="https://github-profile-trophy.vercel.app/?username=ultraelectronica&no-frame=true&column=7&margin-w=15&margin-h=15&theme=onedark" 
     alt="GitHub Trophies" 
     style="width: 100%; min-width: 300px;" 
   />
@@ -23,6 +23,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=heimin22&color=111827&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ultraelectronica&color=111827&style=for-the-badge)
 
 

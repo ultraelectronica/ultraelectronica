@@ -1,5 +1,6 @@
 <div align="center">
   <img src="assets/ultraelectronica.png" alt="Logo" width="200" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=ultraelectronica&color=111827&style=for-the-badge" alt="Profile View Counter" />
   <br/>
   <a href="https://git.io/typing-svg">

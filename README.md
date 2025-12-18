@@ -9,7 +9,7 @@
 ## Technologies
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,vscode,github,gitlab,git,mysql,postgresql,sqlite,supabase,postman,gcp,vercel,cloudflare,expressjs,nodejs,nextjs,threejs,tailwind,npm,bun,typescript,javascript,remix,docker,neovim,firebase,figma,linux,arch,powershell,bash&theme=dark&perline=15" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,rust,androidstudio,vscode,github,gitlab,git,mysql,postgresql,sqlite,supabase,postman,gcp,vercel,cloudflare,expressjs,nodejs,nextjs,threejs,tailwind,npm,bun,typescript,javascript,remix,docker,neovim,firebase,figma,linux,arch,powershell,bash&theme=dark&perline=15" alt="My Skills" />
 </a>
 
 ---

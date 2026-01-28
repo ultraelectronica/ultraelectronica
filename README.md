@@ -6,10 +6,58 @@
 
 ---
 
-## Technologies
-
+## Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,rust,androidstudio,vscode,github,gitlab,git,mysql,postgresql,sqlite,supabase,postman,gcp,vercel,cloudflare,expressjs,nodejs,nextjs,threejs,tailwind,npm,bun,html,css,typescript,javascript,remix,docker,neovim,firebase,figma,linux,arch,powershell,bash&theme=dark&perline=15" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=dart,rust,html,css,typescript,javascript&theme=dark&perline=15" alt="Languages" />
+</a>
+
+---
+
+## Frontend & Mobile
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,remix,threejs,tailwind&theme=dark&perline=15" alt="Frontend & Mobile" />
+</a>
+
+---
+
+## Backend & Runtimes
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,bun,deno&theme=dark&perline=15" alt="Backend & Runtimes" />
+</a>
+
+---
+
+## Databases & BaaS
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase,redis,firebase&theme=dark&perline=15" alt="Databases & BaaS" />
+</a>
+
+---
+
+## DevOps & Cloud
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,docker,aws&theme=dark&perline=15" alt="DevOps & Cloud" />
+</a>
+
+---
+
+## Tools & Package Managers
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,npm,pnpm,jest&theme=dark&perline=15" alt="Tools & Package Managers" />
+</a>
+
+---
+
+## IDEs & Design
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,neovim,figma&theme=dark&perline=15" alt="IDEs & Design" />
+</a>
+
+---
+
+## Operating Systems & Shells
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,arch,windows,powershell,bash&theme=dark&perline=15" alt="Operating Systems & Shells" />
 </a>
 
 ---

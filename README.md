@@ -13,11 +13,9 @@
 
 ---
 
-## Contribution Graph
+## 3D Contribution Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultraelectronica&bg_color=111827&color=f5f5f5&line=fdd835&point=3949ab&area=true&hide_border=true&radius=12" alt="Ashutosh's github activity graph" />
-</a>
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
 
 ---
 

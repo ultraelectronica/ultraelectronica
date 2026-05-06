@@ -2,9 +2,8 @@
 
 ---
 
-## Technologies
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=dart,rust,html,css,typescript,javascript,flutter,nextjs,remix,threejs,tailwind,nodejs,express,nestjs,bun,deno,mysql,postgresql,sqlite,supabase,redis,firebase,gcp,vercel,cloudflare,docker,aws,git,github,gitlab,postman,npm,pnpm,jest,androidstudio,vscode,neovim,figma,linux,arch,windows,powershell,bash&theme=dark&perline=15" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=dart,rust,typescript,javascript,kotlin,java&theme=dark&perline=15" alt="Tech Stack" />
 </a>
 
 ---

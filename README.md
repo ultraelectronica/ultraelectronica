@@ -1,5 +1,6 @@
 ```markdown
 # fried rice with egg.
+# currently learning Go.
 ```
 ---
 <a href="https://skillicons.dev">
